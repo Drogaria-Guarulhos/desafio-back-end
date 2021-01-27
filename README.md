@@ -23,7 +23,7 @@ Queremos avaliar sua capacidade de desenvolver e documentar um back-end para uma
 
 
 ## Bônus
-Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalho (os em negrito são mais significativos para nós, se destacando como características para se tornar Tech Lead em squads)
+Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalho:
 
 * Testes (unitários, integração);
 * Uso de ferramentas externas que facilitem o seu trabalho;
